@@ -1,6 +1,4 @@
-# Bachelors
-
-The topic of this Bachelor's thesis was "Development of a video-based tennis movement recognition and analysis system".
+# 3DCNN Tennis Action Recognition
 
 If you want to reproduce the training process, you need to:
 

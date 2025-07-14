@@ -13,7 +13,7 @@ The results and methods from this project are presented in the published paper:
 
 The goal of this project is to automatically recognize tennis actions (e.g., serve, forehand, backhand) from video data using a 3D CNN architecture. The model works with either:
 - raw **RGB frames**, or  
-- **skeleton keypoint sequences** (e.g., OpenPose output)
+- **skeleton keypoint sequences**
 
 This setup allows learning spatio-temporal representations to classify player actions effectively.
 
